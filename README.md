@@ -85,7 +85,7 @@ export KUBECONFIG=$(pwd)/config
 or you can copy the config file to .kube directory.
 
 ```shell
-cp configs ~/.kube/
+cp config ~/.kube/
 ```
 
 ## Install Kubernetes Dashboard
